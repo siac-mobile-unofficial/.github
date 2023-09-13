@@ -13,3 +13,24 @@ O projeto SIAC MOBILE é uma iniciativa não oficial para criar uma versão móv
 ## Capturas de Tela
 ![Captura de Tela 1](link-para-captura1.png)
 ![Captura de Tela 2](link-para-captura2.png)
+
+## Contribuição
+
+Agradecemos pelo seu interesse em contribuir para o projeto "Nome do Projeto"! Estamos abertos a receber contribuições de desenvolvedores, designers, testadores e qualquer pessoa disposta a ajudar a melhorar este projeto.
+
+### Como Contribuir
+
+1. Faça um fork deste repositório clicando no botão "Fork" no canto superior direito desta página.
+
+2. Clone o seu fork localmente.
+  
+3. Crie uma branch para a sua contribuição.
+   
+4. Faça as suas alterações no código, adicionando recursos ou corrigindo bugs.
+
+5. Commit e empurre suas alterações para o seu fork.
+   
+7. Abra um pull request (PR) para este repositório original. Certifique-se de incluir uma descrição detalhada das suas alterações.
+
+8. Aguarde a revisão e feedback dos mantenedores do projeto. Esteja preparado para fazer ajustes em sua contribuição conforme necessário.
+
