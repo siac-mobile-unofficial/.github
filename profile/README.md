@@ -34,6 +34,14 @@ Agradecemos pelo seu interesse em contribuir para o projeto "Nome do Projeto"! E
 
 8. Aguarde a revisão e feedback dos mantenedores do projeto. Esteja preparado para fazer ajustes em sua contribuição conforme necessário.
 
+### Diretrizes de Contribuição
+
+- Siga as diretrizes de estilo de código e formatação do projeto.
+- Certifique-se de que seus commits sejam descritivos e incluam informações relevantes.
+- Respeite as opiniões e sugestões dos outros colaboradores.
+- Mantenha um tom respeitoso e construtivo nas discussões.
+
+
 ## Licença
 Este projeto é licenciado sob a [Nome da Licença](URL da Licença). Consulte o arquivo LICENSE.md para obter detalhes.
 
