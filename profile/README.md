@@ -18,7 +18,7 @@ O projeto SIAC MOBILE é uma iniciativa não oficial para criar uma versão móv
 
 Agradecemos pelo seu interesse em contribuir para o projeto "Nome do Projeto"! Estamos abertos a receber contribuições de desenvolvedores, designers, testadores e qualquer pessoa disposta a ajudar a melhorar este projeto.
 
-### Como Contribuir
+## Como Contribuir
 
 1. Faça um fork deste repositório clicando no botão "Fork" no canto superior direito desta página.
 
@@ -34,6 +34,6 @@ Agradecemos pelo seu interesse em contribuir para o projeto "Nome do Projeto"! E
 
 8. Aguarde a revisão e feedback dos mantenedores do projeto. Esteja preparado para fazer ajustes em sua contribuição conforme necessário.
 
-### Licença
+## Licença
 Este projeto é licenciado sob a [Nome da Licença](URL da Licença). Consulte o arquivo LICENSE.md para obter detalhes.
 
