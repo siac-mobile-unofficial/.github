@@ -34,3 +34,7 @@ Agradecemos pelo seu interesse em contribuir para o projeto "Nome do Projeto"! E
 
 8. Aguarde a revisão e feedback dos mantenedores do projeto. Esteja preparado para fazer ajustes em sua contribuição conforme necessário.
 
+### Licença
+
+Este projeto é licenciado sob a [Nome da Licença](URL da Licença). Consulte o arquivo LICENSE.md para obter detalhes.
+
