@@ -43,5 +43,5 @@ Agradecemos pelo seu interesse em contribuir para o projeto "Nome do Projeto"! E
 
 
 ## Licença
-Este projeto é licenciado sob a [Nome da Licença](URL da Licença). Consulte o arquivo LICENSE.md para obter detalhes.
+Este projeto é licenciado sob a [GNU General Public License v3.0](./LICENSE). Consulte o arquivo LICENSE.md para obter detalhes.
 
