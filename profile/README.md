@@ -43,5 +43,5 @@ Agradecemos pelo seu interesse em contribuir para o projeto "Nome do Projeto"! E
 
 
 ## Licença
-Este projeto é licenciado sob a [GNU General Public License v3.0]([LICENSE](https://github.com/siac-mobile-unofficial/.github/blob/main/profile/LICENSE)https://github.com/siac-mobile-unofficial/.github/blob/main/LICENSE). Consulte o arquivo LICENSE.md para obter detalhes.
+Este projeto é licenciado sob a [GNU General Public License v3.0](https://github.com/siac-mobile-unofficial/.github/blob/main/LICENSE). Consulte o arquivo LICENSE.md para obter detalhes.
 
